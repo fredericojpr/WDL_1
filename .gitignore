@@ -2,3 +2,6 @@
 BOUNDARIES_garbage_collection_routes_data.geojson
 BOUNDARIES_bulky_collection_routes.geojson
 waste_collection.csv
+gt.csv
+weather.csv
+licences.csv

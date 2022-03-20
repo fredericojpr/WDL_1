@@ -35,6 +35,7 @@ Time Series.........
 
 ## 💡 Main Insights (300 words max)
 Explain what you discovered from addressing this problem, such as interesting facts or statistics.
+
 From our early exploratory analysis, some hypothesis were confirmed by data and other interesting facts were spotted.
 - Monday is the day of the week with the greatest collected volume (as expected)
 - Weekend's have  considerably less collections and collected volume (as expected)

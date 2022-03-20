@@ -4,20 +4,28 @@
 #### *Predict Waste Production for its Reduction* (UrbanAI)
 
 ## 👥 Authors
-Include all the authors that have worked on this submission. It is not obligatory to include all the team members if not everyone has worked on it. This will not impact the evaluation in any way.
 * Bruno Alho
 * Frederico Rodrigues
 * Miguel Zina
 
 ## ✨ Introduction (250 words max)
-Provide a contextualization of the problem, together with an estimation of its size using real numbers and references.
-*Write here*
+*With world's population escalation, one of the major concerns within high density cities is their generation of environmental pollutants. 
+Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving garbage collection and managent. (https://www.nature.com/articles/502615a)*
+
+*Austin (TX) was the fastest growing metro area of the last decade in the U.S., having its population expanded by a third. The capital of Texas is seen as the next big tech hub in the country and is expected to keep its growth. (https://austonia.com/austin-fastest-growing-metro)*
+
+For this challenge our main purpose was to exlpore the patterns of waste production/collection in the city of Austin as well as the key factors that influence it.
 
 ## 🔢 Data (250 words max)
 Explain what data you used (both provided by WDL and external) and improvements you suggest to those datasets. Explain how those improvements would lead to a better solution.
 *Write here*
-Datasets usados - Daily Waste Collection Report for Austin
-                - BOUNDARIES Garbage Collection Routes
+
+To support our research we have used different sources of information spanning four (4) pivotal areas:
+1) *Daily Waste Collection Report for Austin* - a dataset shared by the City of Austin official data portal, containing daily reports of waste collection
+2) *Population History* - sourced by the US Census Bureau and the City of Austin 
+3) *Labour & Unemplyment* - sourced by the US Bureau of Labor Force Statistics, containing historical data of Employment for the city of Austin
+4) *Issued Construction Permits* - also shared by the City of Austin official data portal, with historical data of issued construction permits both Residential and Commecercial 
+
 
 ## 🧮 Methods and Techniques (250 words max)
 Tell us what methods and algorithms you used and the results you obtained.
@@ -27,12 +35,17 @@ Time Series.........
 
 ## 💡 Main Insights (300 words max)
 Explain what you discovered from addressing this problem, such as interesting facts or statistics.
-*Write here*
+
+From our early exploratory analysis, some hypothesis were confirmed by data and other interesting facts were spotted.
+- Monday is the day of the week with the greatest collected volume (as expected)
+- Weekend's have  considerably less collections and collected volume (as expected)
+- Weekdays present the biggest average waste collected, followed by weekends and then holidays (as expected)
+
+Falar do EDA e Forecast?
 
 ## 🛠️ Product
 ### Definition
-Define in **one sentence** what product(s) could be built out of the code you produced.
-Example: A dashboard that assists in traffic control
+Dashboard for collection route control
 
 ### Users
 Describe who would be the users of your product and for what purpose would they use it.

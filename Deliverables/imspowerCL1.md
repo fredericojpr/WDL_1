@@ -10,9 +10,9 @@
 
 ## ✨ Introduction (250 words max)
 *With world's population escalation, one of the major concerns within high density cities is their generation of environmental pollutants. 
-Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving the garbage collection and managent. (https://www.nature.com/articles/502615a)
+Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving the garbage collection and managent. (https://www.nature.com/articles/502615a)*
 
-*Austin (TX) was the fastest growing metro area of the last decade in the U.S., having its population expanded by a third. The capital of Texas is seen as the next big tech hub in the country and is expected keep its growth. (https://austonia.com/austin-fastest-growing-metro)
+*Austin (TX) was the fastest growing metro area of the last decade in the U.S., having its population expanded by a third. The capital of Texas is seen as the next big tech hub in the country and is expected keep its growth. (https://austonia.com/austin-fastest-growing-metro)*
 
 For this challenge our main purpose was to exlpore the patterns of waste production/collection in the city of Austin as well as the key factors that influence it.
 
@@ -35,7 +35,11 @@ Time Series.........
 
 ## 💡 Main Insights (300 words max)
 Explain what you discovered from addressing this problem, such as interesting facts or statistics.
-*Write here*
+
+From our early exploratory analysis, some hypothesis were confirmed by data and other interesting facts were spotted.
+- Monday is the day of the week with the greatest collected volume (as expected)
+- Weekend's have  considerably less collections and collected volume (as expected)
+- Weekdays present the biggest average waste collected, followed by weekends and then holidays (as expected)
 
 Falar do EDA e Forecast?
 

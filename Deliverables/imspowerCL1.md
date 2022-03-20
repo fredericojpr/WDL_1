@@ -10,9 +10,9 @@
 
 ## ✨ Introduction (250 words max)
 *With world's population escalation, one of the major concerns within high density cities is their generation of environmental pollutants. 
-Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving the garbage collection and managent. (https://www.nature.com/articles/502615a)*
+Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving garbage collection and managent. (https://www.nature.com/articles/502615a)*
 
-*Austin (TX) was the fastest growing metro area of the last decade in the U.S., having its population expanded by a third. The capital of Texas is seen as the next big tech hub in the country and is expected keep its growth. (https://austonia.com/austin-fastest-growing-metro)*
+*Austin (TX) was the fastest growing metro area of the last decade in the U.S., having its population expanded by a third. The capital of Texas is seen as the next big tech hub in the country and is expected to keep its growth. (https://austonia.com/austin-fastest-growing-metro)*
 
 For this challenge our main purpose was to exlpore the patterns of waste production/collection in the city of Austin as well as the key factors that influence it.
 
@@ -45,8 +45,7 @@ Falar do EDA e Forecast?
 
 ## 🛠️ Product
 ### Definition
-Define in **one sentence** what product(s) could be built out of the code you produced.
-Example: A dashboard that assists in traffic control
+Dashboard for collection route control
 
 ### Users
 Describe who would be the users of your product and for what purpose would they use it.

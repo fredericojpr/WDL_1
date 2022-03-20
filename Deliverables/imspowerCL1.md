@@ -19,6 +19,7 @@ For this challenge our main purpose was to exlpore the patterns of waste product
 ## 🔢 Data (250 words max)
 Explain what data you used (both provided by WDL and external) and improvements you suggest to those datasets. Explain how those improvements would lead to a better solution.
 *Write here*
+
 To support our research we have used different sources of information spanning four (4) pivotal areas:
 1) *Daily Waste Collection Report for Austin* - a dataset shared by the City of Austin official data portal, containing daily reports of waste collection
 2) *Population History* - sourced by the US Census Bureau and the City of Austin 
@@ -35,6 +36,8 @@ Time Series.........
 ## 💡 Main Insights (300 words max)
 Explain what you discovered from addressing this problem, such as interesting facts or statistics.
 *Write here*
+
+Falar do EDA e Forecast?
 
 ## 🛠️ Product
 ### Definition

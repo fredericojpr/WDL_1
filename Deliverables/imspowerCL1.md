@@ -43,8 +43,12 @@ From our early exploratory analysis, some hypothesis were confirmed by data and 
 - Monday is the day of the week with the greatest collected volume (as expected)
 - Weekend's have  considerably less collections and collected volume (as expected)
 - Weekdays present the biggest average waste collected, followed by weekends and then holidays (as expected)
+- Garbage collection is the main Load Type (total volume)
+- TDS Landfill is the main Drop-off site (total volume and number of drops)
+- Between 10 a.m and 3 p.m. are the most common hours of collection
 
-Falar do EDA e Forecast?
+-------> Incluir insights dos outros datasets?
+-------> Falar Forecast?
 
 ## 🛠️ Product
 ### Definition
@@ -52,6 +56,7 @@ Dashboard for collection route control
 
 ### Users
 Describe who would be the users of your product and for what purpose would they use it.
+Route Planners and Waste Managers would benefit the most of using this dashboard to control and predict how to allocate their resources for the coming days/ weeks.
 Example: Traffic controllers use the dashboard during their work to better plan where to dispatch resources
 
 ### Activities

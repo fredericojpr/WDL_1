@@ -17,15 +17,15 @@ Solid-waste management represents one of the greatest costs to municipal budgets
 For this challenge our main purpose was to exlpore the patterns of waste production/collection in the city of Austin as well as the key factors that influence it.
 
 ## 🔢 Data (250 words max)
-Explain what data you used (both provided by WDL and external) and improvements you suggest to those datasets. Explain how those improvements would lead to a better solution.
-*Write here*
-
 To support our research we have used different sources of information spanning four (4) pivotal areas:
 1) *Daily Waste Collection Report for Austin* - a dataset shared by the City of Austin official data portal, containing daily reports of waste collection
 2) *Population History* - sourced by the US Census Bureau and the City of Austin 
 3) *Labour & Unemplyment* - sourced by the US Bureau of Labor Force Statistics, containing historical data of Employment for the city of Austin
 4) *Issued Construction Permits* - also shared by the City of Austin official data portal, with historical data of issued construction permits both Residential and Commecercial 
 5) *Weather History for Austin*
+
+For our analysis, the team decided to set a particular time-frame that didn't include the recent Covid-19 pandemic. This decision was based on our findings regarding abrupt differences during lockdown periods ant the fact that our main dataset didn't include the most recent events (last collection events recorded around mid-2021)
+It was settled that the time frame to use would be the last decade [2010, 2020[
 
 
 ## 🧮 Methods and Techniques (250 words max)

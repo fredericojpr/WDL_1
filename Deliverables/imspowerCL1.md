@@ -24,8 +24,10 @@ To support our research we have used different sources of information spanning f
 4) *Issued Construction Permits* - also shared by the City of Austin official data portal, with historical data of issued construction permits both Residential and Commecercial 
 5) *Weather History for Austin*
 
-For our analysis, the team decided to set a particular time-frame that didn't include the recent Covid-19 pandemic. This decision was based on our findings regarding abrupt differences during lockdown periods ant the fact that our main dataset didn't include the most recent events (last collection events recorded around mid-2021)
-It was settled that the time frame to use would be the last decade [2010, 2020[
+For our analysis, the team decided to set a particular time-frame that didn't include the recent Covid-19 pandemic. 
+This decision was based on our findings regarding abrupt differences during lockdown periods ant the fact that our main dataset didn't include the most recent events (last collection events recorded around mid-2021).
+
+It was settled that the time frame to use would be the last decade [2010, 2020[.
 
 
 ## 🧮 Methods and Techniques (250 words max)

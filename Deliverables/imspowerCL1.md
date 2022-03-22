@@ -55,19 +55,16 @@ From our early exploratory analysis, some hypothesis were confirmed by data and 
 Dashboard for collection route control
 
 ### Users
-Describe who would be the users of your product and for what purpose would they use it.
 Route Planners and Waste Managers would benefit the most of using this dashboard to control and predict how to allocate their resources for the coming days/ weeks.
-Example: Traffic controllers use the dashboard during their work to better plan where to dispatch resources
+
 
 ### Activities
-Describe what features your product has.
-Example:
-* Predicts the most likely locations for traffic accidents
-* Suggests the fastest route from dispatch centres
+* Predicts the changes in waste production in short and medium term
+* Suggests which areas/routes need to be reinforced or diminished
 
 ### Output
-Describe what the product outputs to the users and how it does that. You can add mockups and/or visualisations.
-Example: Location of the accident on a map and suggest the fastest route from the dispatch centre.
+Location of route to be improved and expected load weight.
+
 
 ## 🌍 Social Impact Measurement
 ### Outcome

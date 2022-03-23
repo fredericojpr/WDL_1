@@ -33,7 +33,7 @@ It was settled that the time frame to use would be the last decade [2010, 2020[.
 ## 🧮 Methods and Techniques (250 words max)
 Tell us what methods and algorithms you used and the results you obtained.
 *Write here* t
-Time Series.........
+So for the Forecasting section we followed the 
 
 
 ## 💡 Main Insights (300 words max)

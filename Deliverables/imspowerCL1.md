@@ -91,3 +91,8 @@ Example:
 
 ### Impact Measurement
 The impact of our product will greatly depend on its usage by the route planners and waste managers, therefore we can only assume that with the correct use of our forecasts there is an opportunity to leverage the resources of the city of Austin to maximize the efficiency of collections.
+For example, with our long term forecast it is possible to gauge that an increase in the number of issued permits has a coeffcient of -412.
+Using the influence of each variable it will be possible to better determine the impact of a change in the route planning and resource usage.
+
+### Future Work
+A dashboard is a good starting point to improve waste management. Nevertheless, we think that the city of Austin can go even further with the appliance of IoT with AI. For instance, it could be employed smart waste beans (with IoT sensors) that would collect information about what type of waste is being disposal, not only would this improve waste collection as it would improve waste disposal and its recycling mechanisms.  AI is recognized by its ability to correct recognize and classify a variety of objects, in that sense the waste picking system would benefit to have such system so it could learn it self and improve to adjust to changing materials streams without any manual intervention.

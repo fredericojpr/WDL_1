@@ -57,6 +57,10 @@ From our early exploratory analysis, some hypothesis were confirmed by data and 
 - TDS Landfill is the main Drop-off site (total volume and number of drops)
 - Between 10 a.m and 3 p.m. are the most common hours of collection
 
+From the forecasting:
+-On the daily forecast, the weather and weekend/variables have the biggest impact
+- On the montlhy forecast, the new issued construction permits and employment rates have a significant impact
+
 
 ## 🛠️ Product
 ### Definition

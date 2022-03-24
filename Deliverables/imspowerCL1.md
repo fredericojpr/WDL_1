@@ -8,7 +8,7 @@
 * Frederico Rodrigues
 * Miguel Zina
 
-## ✨ Introduction (250 words max)
+## ✨ Introduction
 *With world's population escalation, one of the major concerns within high density cities is their generation of environmental pollutants. 
 Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving garbage collection and managent. (https://www.nature.com/articles/502615a)*
 
@@ -36,7 +36,7 @@ Tell us what methods and algorithms you used and the results you obtained.
 So for the Forecasting section we followed the 
 
 
-## 💡 Main Insights (300 words max)
+## 💡 Main Insights
 Explain what you discovered from addressing this problem, such as interesting facts or statistics.
 
 From our early exploratory analysis, some hypothesis were confirmed by data and other interesting facts were spotted.

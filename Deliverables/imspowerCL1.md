@@ -29,11 +29,21 @@ This decision was based on our findings regarding abrupt differences during lock
 
 It was settled that the time frame to use would be the last decade [2010, 2020[.
 
+Additionally, we wanted to include as many datasets as we could in our forecasting, because even if we as a group are not able to gather the most recent datasets we believe that in Austin, they will not have those limitations so we tried to provide as comprehensive of an approach as possible.
+
 
 ## 🧮 Methods and Techniques (250 words max)
 Tell us what methods and algorithms you used and the results you obtained.
-*Write here* t
-So for the Forecasting section we followed the 
+*Write here*
+• Variable Selection - We looked for Correlation between variables (Pearson).
+• Modelling - we focused on a main model of SARIMA, we understood the TimeSeries Properties (Stationarity and Trend tested by the Augmented Dickey-Fuller Test, ACF and PACF to check for seasonality and the autoregressive and moving average parts of the SARIMA).
+Finaly, we tunned with a GridSearch and finally compared the results of the model against the performance of 2 more common models (Linear Regression and Mean Method) and a differentiating model (Facebook's Prophet).
+• Evaluation - Focused on two main metrics for the Forecasting - RMSE and MAPE. For a more macro forecast we focused more on MAPE as it is the easiest to understand. However, for the daily forecast with the event of existing days with 0 garbage recovery the MAPE is not a viable metric so the RMSE is the one chosen.
+
+For the Results:
+Monthly Forecasting: we suggest SARIMA for the long term analysis as with the addition of the coefficient we can successfully predict the “future” as well as the causes and the impact that each variable (coefficients) has in the evolution of the Time Series.
+
+Daily Forecasting: Although SARIMA is the model that better explains the alterations. We believe that the managers should follow take the forecast of Prophet into consideration as it is the best performing and daily analysis is less about what causes the changes as is about the what measures could we take into place.
 
 
 ## 💡 Main Insights

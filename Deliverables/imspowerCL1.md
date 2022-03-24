@@ -47,8 +47,6 @@ From our early exploratory analysis, some hypothesis were confirmed by data and 
 - TDS Landfill is the main Drop-off site (total volume and number of drops)
 - Between 10 a.m and 3 p.m. are the most common hours of collection
 
--------> Incluir insights dos outros datasets?
--------> Falar Forecast?
 
 ## 🛠️ Product
 ### Definition
@@ -68,18 +66,14 @@ Location of route to be improved and expected load weight.
 
 ## 🌍 Social Impact Measurement
 ### Outcome
-If the outputs are your immediate results, describe your long-term results. What do you want your product to achieve? What ''good'' are you creating?
-Example: To decrease response time from dispatchers so that people in urgent need receive help faster.
+The long-term goal is to maximize the efficiency of each route, assuring that there is no waste left to be collected on the streets.
+Additionally it will also be possible to better distribute the dropp-offs among the different sites.
 
 ### Impact Metrics
-From the outcome, define **2 to 4 metrics** that measure if you are achieving that outcome or not.
 Example:
-* Average Dispatch Time
-* Average Distance from Accident Location and Dispatch Center
+* Average Collection Time
+* Average Distance covered per Collection
+* Total Weight per Drop-off Site
 
 ### Impact Measurement
-Since you cannot wait to see the impact of your product, estimate it. You can do that by either using the estimations/predictions of your model, market research, products from proxy industries and/or similar locations, etc.
-
-Example:
-* *Based on model predictions*: Our model estimates a decrease of 6 minutes of the average dispatch time and a decrease of the average distance of 200 meters
-* *Based on proxy products*: Similar studies in other cities show that the dispatch time can be decreased by as much as 13 minutes, depending on the traffic intensity of that city.
+The impact of our product will greatly depend on its usage by the route planners and waste managers, therefore we can only assume that with the correct use of our forecasts there is an opportunity to leverage the resources of the city of Austin to maximize the efficiency of collections.

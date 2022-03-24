@@ -9,6 +9,7 @@
 * Miguel Zina
 
 ## ✨ Introduction
+
 *With world's population escalation, one of the major concerns within high density cities is their generation of environmental pollutants. 
 Solid-waste management represents one of the greatest costs to municipal budgets, and given that the projected global waste generation continues to rise, understanding the drivers of it's growth can play a crucial role on improving garbage collection and managent. (https://www.nature.com/articles/502615a)*
 
@@ -16,7 +17,8 @@ Solid-waste management represents one of the greatest costs to municipal budgets
 
 For this challenge our main purpose was to exlpore the patterns of waste production/collection in the city of Austin as well as the key factors that influence it.
 
-## 🔢 Data (250 words max)
+## 🔢 Data
+
 To support our research we have used different sources of information spanning four (4) pivotal areas:
 1) *Daily Waste Collection Report for Austin* - a dataset shared by the City of Austin official data portal, containing daily reports of waste collection
 2) *Google Trends*  Keyword (Climate Change)- This dataset works as a proof of concept where we can incorporate Google search query data from the population of austin into the Models.
@@ -32,9 +34,8 @@ It was settled that the time frame to use would be the last decade [2010, 2020[.
 Additionally, we wanted to include as many datasets as we could in our forecasting, because even if we as a group are not able to gather the most recent datasets we believe that in Austin, they will not have those limitations so we tried to provide as comprehensive of an approach as possible.
 
 
-## 🧮 Methods and Techniques (250 words max)
-Tell us what methods and algorithms you used and the results you obtained.
-*Write here*
+## 🧮 Methods and Techniques
+
 • Variable Selection - We looked for Correlation between variables (Pearson).
 • Modelling - we focused on a main model of SARIMA, we understood the TimeSeries Properties (Stationarity and Trend tested by the Augmented Dickey-Fuller Test, ACF and PACF to check for seasonality and the autoregressive and moving average parts of the SARIMA).
 Finaly, we tunned with a GridSearch and finally compared the results of the model against the performance of 2 more common models (Linear Regression and Mean Method) and a differentiating model (Facebook's Prophet).
@@ -47,7 +48,6 @@ Daily Forecasting: Although SARIMA is the model that better explains the alterat
 
 
 ## 💡 Main Insights
-Explain what you discovered from addressing this problem, such as interesting facts or statistics.
 
 From our early exploratory analysis, some hypothesis were confirmed by data and other interesting facts were spotted.
 - Monday is the day of the week with the greatest collected volume (as expected)
